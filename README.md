@@ -1,0 +1,1 @@
+This page is to create a concept of operations for drone deployment across India - the objective is to identify all optimal sites for constructing and operating vertiports and drone maintenance centers in order to maximize the social impact while making drone operations commercially feasible for startups and established operators alike.
